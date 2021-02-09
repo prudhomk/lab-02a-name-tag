@@ -11,8 +11,12 @@ body {
     border-radius: 25px;
 }
 
+#hello {
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 #tagfooter {
-    font-size: 75px;
+    font-size: 60px;
 }
 
 #name {
