@@ -2,6 +2,32 @@ body {
     color: darkslateblue;
     font-family: 'Times New Roman', Times, serif;
     font-size: 2em;
+}
+.tag {
+    background-color: red;
+    color: white;
+    margin-right: 175px;
+    text-align: center;
+    border-radius: 25px;
+}
 
+#tagfooter {
+    font-size: 75px;
+}
 
+#name {
+    background-color: white;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    color:black;
+    height: 250px;
+}
+
+#bottom-tag {
+    background-color: red;
+    width: 960px;
+    height: 150px;
+    margin-right: 175px;
+    border-radius: 25px;
 }
