@@ -5,6 +5,7 @@ const nameDisplay = document.getElementById('name');
 
 changeButton.addEventListener('click', () => {
     nameDisplay.textContent =  nameInput.value;
+    
     nameInput.value='';
 });
 
