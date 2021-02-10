@@ -34,7 +34,7 @@ body {
 
 .name {
     background-color: white;
-    height: 250px;
+    height: 230px;
     font-family:cursive;
     color:black;
     flex-direction: row;
@@ -47,4 +47,5 @@ body {
 
 #pronouns {
     font-size: 60px;
+    margin-bottom: 5%;
 }
